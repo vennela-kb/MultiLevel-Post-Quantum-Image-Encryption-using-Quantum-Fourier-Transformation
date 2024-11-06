@@ -1,4 +1,5 @@
-LWE and AES Image Encryption with Quantum Fourier Transform: Enhanced Post-Quantum Security
+**LWE and AES Image Encryption with Quantum Fourier Transform: Enhanced Post-Quantum Security **
+
 **Objectives:**
 
 1. Study the Learning with Errors (LWE) post-quantum encryption algorithm and Quantum Fourier Transform (QFT) for image encryption.
