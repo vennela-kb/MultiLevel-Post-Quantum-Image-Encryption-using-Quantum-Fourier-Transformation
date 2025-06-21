@@ -1,6 +1,4 @@
-# LICENSE
-
-## MIT License
+# MIT License
 
 Copyright (c) 2025 Vennela Kothakonda
 
